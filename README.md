@@ -8,4 +8,4 @@ You pick a genre and it will start playing a totally random song within that gen
 - download main.py
 - run main.py
 
-You might find the installation more difficult than it seems. I was just too lazy to add the full installation. If you want me to add full installation just ask and I'll do it.
+Full installation step-for-step guide coming soon...
