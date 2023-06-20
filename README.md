@@ -8,4 +8,6 @@ You pick a genre and it will start playing a totally random song within that gen
 - download main.py
 - run main.py
 
-Full installation step-for-step guide coming soon...
+### Update
+
+I think pafy is broken. Not sure. Might fix some other time if I can find a solution
