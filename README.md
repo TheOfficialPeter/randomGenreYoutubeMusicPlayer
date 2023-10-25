@@ -10,4 +10,4 @@ You pick a genre and it will start playing a totally random song within that gen
 
 ### Update
 
-I think pafy is broken. Not sure. Might fix some other time if I can find a solution
+Pafy or mainly youtube-dl isn't working anymore. I might check into the issue and report back
