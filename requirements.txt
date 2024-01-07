@@ -1,0 +1,5 @@
+python_vlc==3.0.20123
+Requests==2.31.0
+selenium==4.16.0
+webdriver_manager==4.0.1
+yt_dlp==2023.11.16

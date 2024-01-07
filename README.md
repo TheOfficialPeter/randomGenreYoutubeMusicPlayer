@@ -3,10 +3,7 @@ You pick a genre and it will start playing a totally random song within that gen
 
 ### Installation
 
-- You need Selenium, python-vlc and pafy installed using pip and also a webdriver. I chose Chrome webdriver
-- Install VLC from their main site
-- download main.py
-- run main.py
+- Just run pip on the `requirements.txt` file.
 
 ### Update
 
